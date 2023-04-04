@@ -1,7 +1,5 @@
 # DecAd (Decentralized Advertisement Platform)
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -10,19 +8,22 @@
 
 </p>
 
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
+
 DecAd is a new affiliate/referral marketing service that tracks user events and actions over the blockchain. We create a decentralized economy by providing a meeting point for brands and publishers where they can directly negotiate their collaboration.
 
 ### Built With
-* Solidity
-* Hardhat
-* Metamask
-* React
-* Bootstrap
+
+- Solidity
+- Hardhat
+- Metamask
+- React
+- Bootstrap
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 Here are the instructions on setting up the project locally.
@@ -32,7 +33,8 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 First, you need to download and install node.js and npm.
-* Download Node.js using this link.
+
+- Download Node.js using this link.
   ```sh
   https://nodejs.org/en/download/
   ```
@@ -72,7 +74,7 @@ First, you need to download and install node.js and npm.
     export const influencerContractAddress = "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
     export const companyContractAddress = "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
    ```
-8. Copy the `artifacts` folder from `./` to `./src` 
+8. Copy the `artifacts` folder from `./` to `./src`
 
 9. Open a new terminal and start your React App
    ```JS
@@ -80,30 +82,28 @@ First, you need to download and install node.js and npm.
    ```
 
 <!-- USAGE EXAMPLES -->
+
 ## Walkthrough
 
+- Home page
+  ![home-page](images/homepage.PNG)
 
-* Home page
-![home-page](images/homepage.PNG)
+- Connect Wallet Page: Connect your wallet with Decad
+  ![connect-wallet](images/connectwallet.PNG)
 
-* Connect Wallet Page: Connect your wallet with Decad
-![connect-wallet](images/connectwallet.PNG)
+- Companies Page: Here, companies can register themselves with our platform, register the products they want to advertise. They can also hire the influencer that they want to promote their products through.
+  ![companies0](images/companies0.PNG)
+  ![companies1](images/companies1.PNG)
 
-* Companies Page: Here, companies can register themselves with our platform, register the products they want to advertise. They can also hire the influencer that they want to promote their products through.
-![companies0](images/companies0.PNG)
-![companies1](images/companies1.PNG)
+- Influencers Page: Here, influencers can register themselves without our platform, search for products from companies that they wish to advertise through their social networking sites and then get paid by the companies according to the number of influences that they are able to generate.
+  ![influencers0](images/influencers0.PNG)
+  ![influencers1](images/influencers1.PNG)
 
-* Influencers Page: Here, influencers can register themselves without our platform, search for products from companies that they wish to advertise through their social networking sites and then get paid by the companies according to the number of influences that they are able to generate.
-![influencers0](images/influencers0.PNG)
-![influencers1](images/influencers1.PNG)
-
-* Products: Here, all the products that are available for advertisement by the companies are listed. These products can be viewed by the influencers so that they can decide which product to choose and promote.
-![products](images/products.PNG)
-
+- Products: Here, all the products that are available for advertisement by the companies are listed. These products can be viewed by the influencers so that they can decide which product to choose and promote.
+  ![products](images/products.PNG)
 
 <!-- CONTACT -->
+
 ## Contact
 
-Email - vidushityagi8@gmail.com
-
-
+Email - aaditya.gaur1005@gmail.com
